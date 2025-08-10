@@ -1,0 +1,1 @@
+This folder contains a demo/output video showcasing the final look and functionality of the AI Chatbot project. It demonstrates key features such as real-time AI responses, a clean and responsive chat interface, Flask backend integration, and smooth user interaction.
