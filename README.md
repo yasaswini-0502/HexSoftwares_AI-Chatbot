@@ -23,7 +23,7 @@ Accessible Design – ARIA roles, live region updates, and keyboard-friendly nav
 
 🛠 Technologies & Techniques Used
 
-Frontend
+🖥️ Frontend
 
 HTML5, CSS3, JavaScript (Vanilla)
 
@@ -43,7 +43,7 @@ Emoji Picker for quick reactions
 
 XSS Prevention via HTML escaping (escapeHtml() function)
 
-Backend
+🛠 Backend
 
 Python Flask for serving pages and handling chat requests
 
